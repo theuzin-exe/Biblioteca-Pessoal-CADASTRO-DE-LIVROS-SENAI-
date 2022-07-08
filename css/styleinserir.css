@@ -1,0 +1,9 @@
+body{
+    background-image: url(../img/b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    color: #00ff88 !important;
+    margin-top: 400 !important;
+    
+}

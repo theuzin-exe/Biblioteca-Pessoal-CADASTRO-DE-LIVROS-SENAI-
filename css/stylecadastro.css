@@ -1,0 +1,49 @@
+body{
+    background-image: url(../img/b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    color: #00ff88 !important;
+    margin-top: 70 !important;
+    
+}
+
+h4{
+
+    
+    color:rgb(214, 178, 252);
+    text-align: center !important;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: calc(1.5em + 0.75rem + 2px);
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #00ff88 !important;
+    background-color: #584b72 !important;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: 0.25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
+
+::placeholder{
+    color: rgb(255, 255, 255) !important;
+}
+
+#botao {
+    background-color: #00ff88 !important;
+    color: #1b1429 !important;
+    font-style: bold;
+}
+
+.btn-primary {
+    color: #1b1429 !important;
+    background-color: #00ff88 !important;
+    border-color: #00ff88 !important;
+}

@@ -1,0 +1,34 @@
+body{
+    background-image: url(../img/b2.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    color: #00ff88 !important;
+    margin-top: 400 !important;
+    
+}
+
+.btn-primary {
+    color: #201b2c!important;
+    background-color: #00ff88 !important;
+    border-color: #00ff88 !important ;
+}
+
+.card {
+    background-color: #453b5e !important;
+    border: 1px solid rgb(89 37 145) !important;
+    
+
+}
+
+.row {
+    
+    display: -ms-flexbox !important;
+    display: flex !important;
+    -ms-flex-wrap: wrap !important;
+    flex-wrap: nowrap !important; 
+    margin-right: -15px !important;
+    margin-left: -15px !important ;
+    justify-content: center !important;
+
+}

@@ -1,0 +1,36 @@
+body{
+    background-image: url(../img/b2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Noto Sans', sans-serif;
+    color: #00ff88 !important;
+    margin-top: 400 !important;
+    
+}
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff0 !important;
+    background-clip: border-box !important;
+    border: 1px solid rgb(89 37 145) !important;
+    border-radius: 0.25rem;
+}
+
+.btn-info {
+    color: #fff !important;
+    background-color: #00ff88 !important;
+    border-color: #00ff88 !important;
+}
+
+.btn-lg {
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+    background-color: #00ff88 !important;
+    border-color: #00ff88 !important;
+}
