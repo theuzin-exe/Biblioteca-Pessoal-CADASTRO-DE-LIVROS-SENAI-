@@ -1,5 +1,6 @@
 # Biblioteca-Pessoal-CADASTRO-DE-LIVROS-SENAI-
 
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 📌 Projeto de finalização do curso de TI no SENAI.
 
